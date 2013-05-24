@@ -1,1 +1,1 @@
-Q3: Explain what a branch is, in your own words.
+A3: A branch is an exact copy of a repository in the same location. It copies the data from all files within a given repo, and allows changes to made without them showing in the master branch. Once any changes have been approved they can then be merged back into the master branch.

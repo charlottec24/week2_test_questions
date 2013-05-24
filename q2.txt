@@ -1,1 +1,1 @@
-Q2: Explain what upstream remote is usually used for, in your own words.
+Q2: Upstream remote is used to track a particular local branch to a particular branch on a remote repository.

@@ -1,1 +1,1 @@
-Q1: Explain what git clone does, in your own words?
+A1: The git clone command takes and exact copy of an exisiting git repository. The data for that repository is pulled down.
